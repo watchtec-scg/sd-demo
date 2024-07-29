@@ -1,0 +1,6 @@
+.venv/
+/mockup/*
+/model/*
+*.ipynb
+.ipynb_checkpoints
+.DS_Store
