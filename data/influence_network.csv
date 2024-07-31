@@ -1,0 +1,170 @@
+Label,Key,Value,Activity Score,Stakeholder Score,Importance Score,Degree Score,PageRank Score
+ExternalPerson,fullname,เรืองโรจน์ พูนผล,0.0,0.0,0,3.0,0.7802082083393314
+ExternalPerson,fullname,เกียรติชาย ไม่ตรีวงษ์,0.0,0.0,0,3.0,0.9178702652958375
+ExternalPerson,fullname,สารัชถ์ รัตนาวะดี,0.0,0.0,0,3.0,0.9271899716124409
+ExternalPerson,fullname,ดร.พิรุณ สัยยสิทธิ์พานิช,0.0,0.0,0,3.0,0.9323502880389817
+ExternalPerson,fullname,คมกฤช ตันตระวาณิชย์,0.0,0.0,0,3.0,0.956311893549332
+ExternalPerson,fullname,สมภพ พัฒนอริยางกูล,0.0,0.0,0,3.0,0.9563118935493318
+ExternalPerson,fullname,วัชรพงศ์ ทองรุ่ง,0.0,0.0,0,3.0,0.9563118935493318
+ExternalOrganization,org_name,Energy News Center,0.0,0.0,0,1.0,0.41907411061849686
+ExternalOrganization,org_name,สำนักนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม,0.0,0.0,0,3.0,1.432356864252335
+ExternalOrganization,org_name,บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน)  ,0.0,0.0,0,1.0,0.4108206223703192
+ExternalOrganization,org_name,ธนาคารกสิกรไทย (KBANK),0.0,0.0,0,6.0,1.4285777881389767
+ExternalOrganization,org_name,คณะกรรมาธิการทรัพยากรธรรมชาติ,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,สถาบันคาร์บอนเพื่อความยั่งยืน (CBiS),0.0,0.0,0,1.0,0.9612404689154856
+ExternalPerson,fullname,เศรษฐา ทวีสิน,0.0,0.0,0,3.0,0.9294416351020743
+ExternalPerson,fullname,เทพรัตน์ เทพพิทักษ์,0.0,0.0,0,3.0,0.9563118935493318
+ExternalOrganization,org_name,มิตรผล,0.0,0.0,0,1.0,0.5158561494843527
+ExternalOrganization,org_name,สถาบันระหว่างประเทศเพื่อการค้าและการพัฒนา,0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,สมาคมการจัดการของเสียอย่างยั่งยืน,0.0,0.0,0,1.0,0.3864852021788183
+ExternalOrganization,org_name,สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน),0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,สำนักงานคณะกรรมการกำกับกิจการพลังงาน ,0.0,0.0,0,0.0,0.15000000000000002
+ExternalOrganization,org_name,Social Value Thailand,0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,Bualuang SME Club,0.0,0.0,0,1.0,0.5158561494843527
+ExternalOrganization,org_name,ตลาดหลักทรัพย์แห่งประเทศไทย (SET),0.0,0.0,0,3.0,1.0599589577117408
+ExternalOrganization,org_name,Ambassador of Sweden,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ,0.0,0.0,0,2.0,0.597832714349714
+ExternalOrganization,org_name,THE STANDARD,0.0,0.0,0,2.0,0.5961994934789426
+ExternalOrganization,org_name,การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย,0.0,0.0,0,1.0,0.41907411061849686
+ExternalOrganization,org_name,NIDA,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,บริษัท ปตท. จำกัด (มหาชน) PTT,0.0,0.0,0,2.0,0.6323097913327138
+ExternalOrganization,org_name,กรมการเปลี่ยนแปลงสภาพภูมิอากาศและสิ่งแวดล้อม,0.0,0.0,0,3.0,1.2516078717941912
+ExternalOrganization,org_name,Business Council for International Understanding (BCIU),0.0,0.0,0,1.0,0.6350039455217478
+ExternalOrganization,org_name,Bangkok Insight,0.0,0.0,0,2.0,0.5983106933546815
+ExternalOrganization,org_name,[x] รัฐบาล,0.0,0.0,0,1.0,0.41150973241930605
+ExternalOrganization,org_name,สำนักงานทรัพยากรน้ำแห่งชาติ (สนทช.),0.0,0.0,0,1.0,0.5325326601576228
+ExternalOrganization,org_name,กระทรวงพลังงาน,0.0,0.0,0,1.0,0.41907411061849686
+ExternalOrganization,org_name,สมาคมอุตสาหกรรมปูนซิเมนต์ไทย,0.0,0.0,0,1.0,0.41907411061849686
+ExternalOrganization,org_name,TCMA,0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,Global Compact,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,สำนักงาน กสทช,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,ธนาคารบัวหลวง (BBL),0.0,0.0,0,0.0,0.15000000000000002
+ExternalOrganization,org_name,สภาอุตสาหกรรมแห่งประเทศไทย,0.0,0.0,0,2.0,0.7120833925340408
+ExternalOrganization,org_name,ศูนย์วิจัยและสนับสนุนเป้าหมายการพัฒนาที่ยั่งยืน (SDG MOVE),0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,องค์การบริหารจัดการก๊าซเรือนกระจก (องค์การมหาชน) TGO,0.0,0.0,0,2.0,0.8005445529208616
+ExternalOrganization,org_name,มหาวิทยาลัยธรรมศาสตร์,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,มหาวิทยาลัยเกษตรศาสตร์,0.0,0.0,0,2.0,1.4028914951739517
+ExternalOrganization,org_name,พรรคก้าวไกล,0.0,0.0,0,1.0,0.4108206223703192
+ExternalOrganization,org_name,SX Sustainablity Expo 2023,0.0,0.0,0,1.0,0.5158561494843527
+ExternalOrganization,org_name,บมจ.บางจากคอร์ปอเรชั่น Bangchak,0.0,0.0,0,1.0,0.4125417305032229
+ExternalOrganization,org_name,UNIDO,0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,บริษัท กัลฟ์  เอ็นเนอร์จี  ดีเวลลอปเมนท์  จำกัด (มหาชน) GULF,0.0,0.0,0,1.0,0.4108206223703192
+ExternalOrganization,org_name,กรมสรรพสามิต,0.0,0.0,0,1.0,0.4125417305032229
+ExternalOrganization,org_name,วปอ,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,International Wire & Machinery Association (IWMA),0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,สถาบันส่งเสริมการบริหารกิจการบ้านเมืองที่ดี สำนักงาน ก.พ.ร.,0.0,0.0,0,1.0,0.6138839773671715
+ExternalOrganization,org_name,สถาบันวิจัยเพื่อการพัฒนาประเทศไทย (TDRI),0.0,0.0,0,1.0,0.4125417305032229
+ExternalOrganization,org_name,FUJITSU (Thailand),0.0,0.0,0,1.0,0.5402312250152197
+ExternalOrganization,org_name,มหาวิทยาลัยมหิดล คณะสาธารณสุข,0.0,0.0,0,2.0,1.4028914951739517
+ExternalOrganization,org_name,บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน) CP,0.0,0.0,0,0.0,0.15000000000000002
+Event,event_name,เรียนเชิญเข้าร่วมประชุมหารือองค์กรภาคีร่วมจัดงานการประชุมภาคีการขับเคลื่อนการปฎิบัติงานด้านการเปลี่ยนแปลงสภาพภูมิอากาศของไทย ครั้งที่ 3,1.0,1.0,1,1.0,0.5902626616453056
+Event,event_name,ขอเรียนเชิญท่านหรือผู้แทนของหน่วยงานเข้าร่วม “การประชุมกลุ่มผู้มีส่วนเกี่ยวข้องเพื่อรับฟังข้อเสนอแนะในการจัดตั้งหน่วยงานด้านข้อมูลความรู้และนโยบาย (Think Tank) เพื่อการเปลี่ยนผ่านพลังงานอย่างเป็นธรรมของประเทศไทย”,1.0,1.0,1,0.0,0.15000000000000002
+Event,event_name,เชิญเป็นวิทยากรโครงการหลักสูตรนักบริหารงบประมาณระดับสูง,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ขอความอนุเคราะห์รายชื่อบุคลากรในสังกัดเป็นวิทยากรบรรยายในหัวข้อ “Leading Thailand Toward Sustainable (SDGs)” ในการประชุมวิชาการระดับชาติด้านสาธารณสุข วิทยาศาสตร์ และเทคโนโลยี ,1.0,1.0,1,2.0,1.4028914951739517
+Event,event_name,"ขอเรียนเชิญเข้าร่วมการอบรม SDG Impact Standard Train-The-Trainers Course และขอความอนุเคราะห์ประชาสัมพันธ์แก่
+หน่วยงานที่เกี่ยวข้อง (1 Seat = 63,000 บาท)",2.0,1.0,2,2.0,0.9239010126423044
+Event,event_name,ขอรับการสนับสนุนและนำเสนอผลงานในงาน การจัดประชุมวิชาการสิ่งแวดล้อมแห่งชาติครั้งที่  23,1.0,1.0,1,2.0,0.9239010126423044
+Event,event_name,ขอเชิญ RR เป็นวิทยากรเพื่อให้แนวคิดมุมมองการขับเคลื่อนกลยุทธ์ของธุรกิจภายใต้หัวข้อ Change Management for Sustainable Growth ในงานสัมมนาผู้บริหารมิตรผลประจำปี 2566 ที่นครราชสีมา,3.0,3.0,9,2.0,0.8657303875651943
+Event,event_name,ขอเรียนเชิญนำเสนอข้อมูลเพื่อประกอบการพิจารณารางวัล SET Awards 2023 กลุ่ม Sustainability Excellence [Honor],3.0,3.0,9,2.0,0.7275807265009273
+Event,event_name,"เชิญ CP ร่วมเป็น Panelist หัวข้อ ""Leadership Strategies for Sustainable Transformation"" ในงาน Fujitsu Activate Now Thailand ที่ Hyatt Regency Bangkok",2.0,2.0,4,2.0,0.9239010126423044
+Event,event_name,"ขอเชิญ CP ร่วมเสวนาหัวข้อ ""การจัดการสิ่งแวดล้อมในประเทศไทย"" ภายในงาน Environmental and Waste Expo 2023 (EndWasteExpo2023) ณ อาคาร 6 ศูนย์แสดงสินค้า Impact เมืองทองธานี",2.0,2.0,4,2.0,0.7300109210481117
+Event,event_name,ขอเชิญเข้าร่วมประชุมสภาการศึกษาเสวนา OCE ประจำปีงบประมาณ พศ 2567,1.0,1.0,1,0.0,0.15000000000000002
+Event,event_name,ขอความอนุเคราะห์ให้ความเห็นต่อร่าง Thailand Taxonomy ระยะที่ 2 ครั้งที่ 1,1.0,1.0,1,0.0,0.15000000000000002
+Event,event_name,การติดตามผลการดำเนินงานตามแผนปฏิบัติการด้านความหลากหลายทางชีวภาพ โดยขอให้ SCG กรอกข้อมูลการดำเนินการที่เกี่ยวข้องตามแผนฯ Biodiveristy 2560-2565 ในช่วงปีงบประมาณ 2563-2565 ที่สอดคล้องตามแผนฯ ,1.0,1.0,1,3.0,1.3146258793226757
+Event,event_name,ขอเรียนเชิญร่วมเป็นวิทยากรเสวนา หัวข้อ “Ecosystem for Climate solution”,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,เชิญเป็นวิทยากร หลักสูตร ESG สำหรับบุคคลากรด้านความปลอดภัยอาชีวอนามัย และสิ่งแวดล้อม,1.0,1.0,1,1.0,0.7404149557862525
+Event,event_name,ขอเชิญส่งตัวแทน 2 คนเข้าร่วมกิจกรรมความร่วมมือและการมีส่วนในการบริหารจัดการน้ำ เนื่องในวันน้ำโลกประจำปี 2566 ณ โรงแรมรามาการ์เด้นส์ ,1.0,1.0,1,3.0,1.3615429265252106
+Event,event_name,ขอเชิญเข้าร่วมประชุมการจัดทาแผนปฏิบัติการด้านการลดก๊าซเรือนกระจกของประเทศ พ.ศ. 2564-2573 เพื่อหารือร่วมกำหนดค่าเป้าหมายและมาตรการ/กิจกรรมที่ประเทศดำเนินการเองและที่ต้องการได้รับการสนับสนุนจากต่างประเทศ เพื่อนำไปสู่การปฏิบัติและบรรลุเป้าหมาย NDC ของประเทศภายในปี พ.ศ. 2573  จัดที่ โรงแรมเดอะ สุโกศล กรุงเทพมหานคร,1.0,1.0,1,2.0,0.9798288877320998
+Event,event_name,เชิญเข้าร่วมเสวนาในการประชุมระดับชาติและนานาชาติของเครือข่ายความเข็มแข็งต่อภัยพิบัติไทย ครั้งที่ 2,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,เชิญร่วมเป็นองกรณ์ภาคีร่วมจัดประชุมการขับเคลื่อนการปฎิบ้ติงานด้านการเปลี่ยนแปลงสภาพภูมิอากาศของไทย,1.0,1.0,1,1.0,0.5024322611743014
+Event,event_name,เชิญเป็นวิทยากรสำนักงานมูลนิธิคลังสมอง  วปอ  เพื่อสังคม,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ทีมผู้บริหารและคณะกรรมการบริหารความยั่งยืน คณะแพทยศาสตร์ศิริราชพยาบาลดูงานเรื่องยุทธศาสตร์และ Implementation ในการทำ SDG’s ของ SCG ,1.0,1.0,1,3.0,1.0125652190000007
+Event,event_name,"industrial Deep Dccarbonizing the cement and concreste sectorr, UNIDO",1.0,1.0,1,2.0,0.9239010126423044
+Event,event_name,[x] SET ESG PROFESSIONALS FORUM 2023: TOGETHER FOR CHANGE,2.0,2.0,4,2.0,0.663139947069968
+Event,event_name,"ขอเชิญประชุมเชิงปฎิบัติการ (Workshop)  ภาคใต้โครงการ  Envoronmental and Social Safeguards, Criteria, Checklist, or Form for Natural Resource and Environmental Projects ",1.0,1.0,1,2.0,1.0572341279621773
+Event,event_name,ส่งรายงานการพิจารณาศึกษาของคณะกรรมการธิการทรัพยกาธรรมชาติและสิ่งแวดล้อม ,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ขอความอนุเคราะห์ในการสนับสนุนการจัดงานประชุมวิชาการระดับชาติและระดับนานาชาติ,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,เชิญประชุมใหญ่สามัญประจำปี 2567 สมาคมเครือข่ายโกลบอลคอมแพ็กแห่งประเทศไทย,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,IWMA จะจัดงาน International Conference หัวข้อ Towards a Sustainable Future - Transforming Challenge into Oppotunities ที่กรุงเทพฯ โดยขอเชิญ RR เข้าร่วมเป็น Panelist เพื่อแชร์ Insights on Balancing Socio-Economic Progress and Environmental Stewardship in the Region,1.0,1.0,1,2.0,0.9239010126423044
+Event,event_name,เชิญร่วมประชุมรับฟังความคิดเห็นต่อร่างแนวทางการพิจารณารายงานผลกระทบสิ่งแวดล้อม ด้านนิเวศวิทยทางน้ำ ครั้งที่ 4,1.0,1.0,1,1.0,0.5532099681103452
+Event,event_name,ขอความอนุเคราะห์ให้ข้อมูล,1.0,1.0,1,1.0,0.7404149557862525
+Event,event_name,เชิดร่วมประชุมกำหนดทิศทางความร่วมมือในกรอบสหประชาขาติในอนาคต,1.0,1.0,1,3.0,1.1457456769872778
+Event,event_name,EARTH JUMP 2024 : The Edge of Action ,3.0,3.0,9,6.0,1.5586333065076552
+Event,event_name,ขอเชิญเข้าร่วมงานรับฟังความเห็นต่อร่างแผนการปฎิบัติการด้านพลังงานทดแทนและพลังงานทางเลือก,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ขอเรียนเป็นวิทยากรของหลักสูตร KU CARE รุ่นที่  2 (คณะบริหารธุรกิจ),1.0,1.0,1,1.0,0.7404149557862525
+Event,event_name,ขอเชิญเป็นองค์กรภาคีร่วมจัดงาน Thailand Climate Action Conference (TCAC 2023) และขออนุเคราะห์ร่วมสนับสนุนการจัดงาน,3.0,3.0,9,2.0,0.9282149000764627
+Event,event_name,เชิญเข้าร่วมโครงการ SET ESG Expert Pool,1.0,1.0,1,2.0,0.7652639403614044
+Event,event_name,"BCIU is convening a senior level program on the periphery of the APEC Energy Ministerial Meetings in Seattle, Washington focused on how stakeholders can work together to create a regional framework that accelerates emissions reduction by enabling cross border trading of credits.  The panel discussion, in partnership with Chevron, will be on Monday, August 14 from 4PM-5:30PM entitled: ‘Leveraging Carbon Offsets to Advance Climate Mitigation in APEC.’ ",2.0,2.0,4,2.0,1.1521242724070901
+Event,event_name,ขอเรียนเชิญเข้าร่วมประชุมกลุ่มผู้มีส่วนที่เกี่ยวข้องเพื่อรับฟังข้อเสนอแนะในการจัดตั้งหน่วยงานด้านข้อมูลความรู้และนโยบายเพื่อการเปลี่ยนผ่านพลังงานอย่างเป็นธรรม,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,"ศูนย์ความร่วมมือไทยทางวิชาการไทย-ฝรั่งเศส (DORAS Center) กำหนดให้จัดประชุมเชิงปฏิบัติการของเครือข่ายวิชาการ ThaiFlux ครั้งที่ 6 เรื่อง Driving towards net zero emission through greenhouse gases, water and energy flux measurement networks in Thailand ระหว่างวันที่ 13-16 พฤศจิกายน 2566 ณ ม.เกษตรศาสตร์ วิทยาเขตบางเขน กรุงเทพฯ เพื่อเป็นเวทีแลกเปลี่ยนความรู้ในแง่มุมใหม่ ๆ ระหว่างคณาจารย์ นักวิจัย นิสิต และบุคลากรจากหน่วยงานที่เกี่ยวข้องทั้งในระดับชาติและนานาชาติ",,,0,1.0,0.7404149557862525
+Event,event_name,เชิญเข้าร่วมประชุมระดมความคิดเห็นกลุ่มย่อยโครงการแนวทางการปรับตัวรองรับมาตรการทางการค้าเพื่อบรรเทาการเปลี่ยนแปลงสภาพภูมิอากาศเพื่อยกระดับความสามารถในการแข่งของ MSMEs,1.0,1.0,1,2.0,0.9239010126423044
+Event,event_name,[x] KBTG Techtopia เชิญเป็น Panelist เรื่อง AI with ESG,3.0,3.0,9,5.0,1.2740816909033483
+Event,event_name,ขอเรียนเชิญท่านเป็นวิทยากร ในการประชุม HA National Forum ครั้งที่ 24,3.0,3.0,9,3.0,1.0125652190000007
+Event,event_name,the Pioneer the possible Thailand 2024: Green Production Event,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,"เสวนาพิเศษ  ""ค่าไฟฟ้าที่เป็นธรรมต้องทำอย่างไร""",3.0,3.0,9,10.0,2.80473548626962
+Event,event_name,เชิญประชุมแลกเปลี่ยนประสบการณ์การดำเนินงานเพื่อบรรลุเป้าหมายการปล่อย GHG เป็นศูนย์ของประเทศไทย ขอตัวแทน SCG 2 คน,2.0,2.0,4,3.0,1.6536587179408142
+Event,event_name,Thailand Net Zero 2024 Now or Never  (Dinner Talk),3.0,3.0,9,12.0,3.053955287462979
+Event,event_name,ขอเชิญเข้าร่วมสัมมนาหัวข้อ Sattlelite Earth Observation & Carbon Accounting เพื่อรับรู้เรื่องการตรวจวัดคาร์บอนด้วยเทคโนโลยีสำรวจโลกด้วยดาวเทียม จัดที่โรงแรมเลอเมอริเดียน เชียงราย รีสอร์ท,,,0,3.0,1.8445425214324187
+Event,event_name,ขออนุเคราะห์นำผู้ประกอบการธุรกิจ SMEs จำนวน 40 รายภายใต้โครงการ ESG 3 DAYs BOOTCAMP  เข้าศึกษาดูงานด้านนโยบาย ESG และวางแผนออกแบบแผนงานโดยเน้นหลัก ESG,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ขอเชิญร่วมมงาน SX Sustainablity Expo 2023 วันที่ 28 กันยายน-9 ตุลาคม โดยขอ 1) ร่วมจัดแสดงผลงาน 2) เชิญ RR ร่วม CEO Panel Talk และ 3) ขอสนับสนุนการจัดงาน,3.0,3.0,9,2.0,0.8657303875651943
+Event,event_name,เชิญ CP เป็นวิทยากรบรรยาย ESG สำหรับผู้ประกอบการ ณ ศูนย์ประชุมแห่งชาติสิริกิติ๋ (CP ติดงาน ESG Symposium ทั้งวัน),2.0,2.0,4,2.0,0.8657303875651943
+Event,event_name,บรรยายเครือข่ายมหาวิทยาลัยยั่งยืน  SCG ESG Pathway มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ  และการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย,3.0,3.0,9,5.0,1.3348309669606861
+Event,event_name,ขอเรียนเชิญบริษัทของท่านร่วมแสดงผลงานด้านความยั่งยืนในงาน Money Expo Bangkok 2024 ,1.0,1.0,1,0.0,0.15000000000000002
+Event,event_name,เชิญร่วมเป็นวิทยากรสัมมวิชาการ Sharing and lerning: การขับเคลื่อน Net Zero Emission ในภาคอุตสาหกรรมฯ,1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,ขอเชิญร่วมแสดงความคิดเห็นในการประเมินผลสัมฤทธิ์พระราชบัญญัติส่งเสริมและรักษาคุณภาพสิ่งแวดล้อมแห่งชาติ พ.ศ.2535 และที่แก้ไขเพิ่มเติม,1.0,1.0,1,0.0,0.15000000000000002
+Event,event_name,วิทยากรหลักสูตรผู้บริหารเมืองนวัตกรรม ,1.0,1.0,1,2.0,0.9239010126423044
+Event,event_name,"ขอเชิญเป็นวิทยากรในหัวข้อ ""ภาวะผู้นำกับบทบาทด้านนวัตกรรมความยั่งยืนการจัดการความปลอดภัย อาชีวอนามัยสิ่งแวดล้อมและพลังงานขององค์กร"" แก่ผู้เข้าร่วมโครงการอบรมหลักสูตร ""ผู้บริหาร Mini MBA: นวัตกรรมความยั่งยืนในการจัดการความปลอดภัย สุขภาพ สิ่งแวดล้อมและพลังงาน พร้อมทั้งขอใช้สถานที่ในการอบรมและศึกษาดูงาน ณ SCG สำนักงานใหญ่ ในวันศุกร์ที่ 19 มกราคม 2567 เวลา 9:00-16:00 น. ",1.0,1.0,1,1.0,0.9612404689154856
+Event,event_name,[x] เชิญร่วมงานประกาศ ESG Strategy 2568,1.0,1.0,1,5.0,1.284832173178452
+InternalPerson,fullname,dummy_C ,0.0,0.0,0,2.0,0.7655553240470447
+InternalPerson,fullname,Roongrote Rangsiyopash,0.0,0.0,0,0.0,0.15000000000000002
+InternalPerson,fullname,SS ,0.0,0.0,0,1.0,0.6138839773671715
+InternalPerson,fullname,WSK ,0.0,0.0,0,1.0,0.7404149557862525
+InternalPerson,fullname,Supapak Mukjaeng,0.0,0.0,0,0.0,0.15000000000000002
+InternalPerson,fullname,Tanoos Pha-obsaeng,0.0,0.0,0,3.0,0.9174600936444137
+InternalPerson,fullname,Nat ,0.0,0.0,0,1.0,0.5961055700280385
+InternalPerson,fullname,PSY ,0.0,0.0,0,9.0,2.9801560508606264
+InternalPerson,fullname,Jirapat Janjerdsak,0.0,0.0,0,2.0,0.6844707535190762
+InternalPerson,fullname,Wat ,0.0,0.0,0,1.0,0.5643527993837153
+InternalPerson,fullname,Patima Sinthupinyo,0.0,0.0,0,2.0,0.9239010126423044
+InternalPerson,fullname,PP ,0.0,0.0,0,2.0,0.9017781119404831
+InternalPerson,fullname,MK ,0.0,0.0,0,2.0,1.098887922888919
+InternalPerson,fullname,Chana Poomee,0.0,0.0,0,32.0,8.186979648329437
+InternalPerson,fullname,dummy_B ,0.0,0.0,0,1.0,0.36493558480491134
+ExternalOrganization,org_name,สำนักงานเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) GISTDA,0.0,0.0,0,1.0,0.6668064514098416
+ExternalOrganization,org_name,สถาบันรับรองคุณภาพสถานพยาบาล,0.0,0.0,0,1.0,0.434913936581993
+ExternalOrganization,org_name,มหาวิทยาลัยเทคโนโลยีสุรนารี ,0.0,0.0,0,1.0,0.7404149557862525
+ExternalOrganization,org_name,กระทรวงต่างประเทศ,0.0,0.0,0,1.0,0.47239161037135075
+ExternalOrganization,org_name,ธนาคารไทยพาณิชย์​ (SCB),0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,ศิริราชพยาบาล,0.0,0.0,0,1.0,0.434913936581993
+ExternalOrganization,org_name,สำนักงานคณะกรรมการกำกับกิจการพลังงาน,0.0,0.0,0,1.0,0.41907411061849686
+ExternalOrganization,org_name,สมาคมวิศวกรรมสิ่งแวดล้อม,0.0,0.0,0,1.0,0.5402312250152197
+InternalPerson,fullname,SP ,0.0,0.0,0,2.0,1.0419958039148334
+InternalPerson,fullname,dummy_A ,0.0,0.0,0,12.0,3.061107003982041
+InternalPerson,fullname,Watchareepast Techanitipat,0.0,0.0,0,2.0,0.6247038190252102
+InternalPerson,fullname,Siriwan Pongpom,0.0,0.0,0,1.0,0.5402312250152197
+InternalPerson,fullname,Thammasak Sethaudom,0.0,0.0,0,2.0,0.6545751261780612
+InternalPerson,fullname,Jay ,0.0,0.0,0,1.0,0.6668064514098416
+InternalPerson,fullname,Po ,0.0,0.0,0,1.0,0.6668064514098416
+InternalPerson,fullname,Nuttavut Intarode,0.0,0.0,0,11.0,4.132756603832977
+InternalPerson,fullname,SPA ,0.0,0.0,0,2.0,0.9017781119404831
+ExternalPerson,fullname,วุฒิกร สติฐิต,0.0,0.0,0,3.0,0.8688260493000209
+ExternalPerson,fullname,เกษรา ธัญลักษณ์ภาคย์,0.0,0.0,0,3.0,0.9271899716124409
+ExternalPerson,fullname,พีรพงศ์ กรินชัย,0.0,0.0,0,2.0,0.5799180268646799
+ExternalPerson,fullname,เกรียรไกร เธียรนุกุล,0.0,0.0,0,3.0,0.9026500175228767
+ExternalPerson,fullname,ดร.สมเกียรติ ตั้งกิจวานิชย์,0.0,0.0,0,3.0,0.9332266206380709
+ExternalPerson,fullname,เฉลา กาญจนา,0.0,0.0,0,3.0,0.832300333816253
+ExternalPerson,fullname,จิราพร มรกตจินดา,0.0,0.0,0,3.0,0.956311893549332
+ExternalPerson,fullname,ดร.เอกนิติ นิติทัณฑ์ประภาส,0.0,0.0,0,3.0,0.9332266206380709
+ExternalPerson,fullname,ดร.สุชาติ เซี่ยงฉิน,0.0,0.0,0,4.0,1.057608469778013
+ExternalPerson,fullname,พริษฐ์ วัขรสินธุ,0.0,0.0,0,3.0,0.9271899716124409
+ExternalPerson,fullname,อรรถพล ฤกษ์พิบูลย์,0.0,0.0,0,3.0,0.8467286154540656
+ExternalPerson,fullname,วิชัย ณรงค์วณิชย์,0.0,0.0,0,5.0,1.2119561514571495
+ExternalPerson,fullname,นครินทร์ วนกิจไพบูลย์,0.0,0.0,0,3.0,0.8311891750355143
+ExternalPerson,fullname,ชัยวัฒน โคววิสารัช,0.0,0.0,0,3.0,0.9332266206380709
+ExternalPerson,fullname,ดร.กรินทร์ บุญเลิศวาณิชย์,0.0,0.0,0,5.0,1.2164952745995292
+ExternalPerson,fullname, ,0.0,0.0,0,1.0,0.4735211247677496
+ExternalPerson,fullname,ดร.วิทย์ สิทธิเวคิน,0.0,0.0,0,5.0,1.261107201900194
+ExternalOrganization,org_name,สำนักงบประมาณ,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,กรมพัฒนาพลังงานทดแทน,0.0,0.0,0,1.0,0.9612404689154856
+ExternalOrganization,org_name,บมจ.อสมท,0.0,0.0,0,1.0,0.41907411061849686
+ExternalPerson,fullname,ภัทราวรรณ สุขคันธรักษ์,0.0,0.0,0,3.0,0.9563118935493318
