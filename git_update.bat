@@ -1,6 +1,3 @@
-REM Navigate to the specific folder
-cd "C:/Users/watchtec/Documents/GitHub/scg-wedo-data/neo4j"
-
 REM Add all changed files to git staging area
 git add .
 
