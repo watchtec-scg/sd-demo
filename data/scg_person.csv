@@ -1,36 +1,26 @@
-id,createdTime,fields.Report To,fields.Note,fields.Name,fields.Email,fields.Email (from Report To),fields.Last modified date,fields.Surname,fields.Position,fields.Network Data,fields.Organization,fields.Incoming Document,Full Name
-rec18S6cdmqYdGleP,2024-07-22T16:50:35.000Z,['recr1BqvG9zcz3ATI'],dummy,dummy_C,dummy_C,['dummy_A'],2024-07-31T03:43:17.000Z,,,,,,dummy_C 
-recCQf57J2IVdcxpY,2024-07-10T09:09:45.000Z,,,Roongrote,roongror@scg.com,,2024-07-31T03:54:10.000Z,Rangsiyopash,Director,['reccGFcOHy6IX9BhC'],SCG Board,['recTYuuXL1xjw2s3n'],Roongrote Rangsiyopash
-recJFbopu3xf8C7cg,2024-07-21T04:44:14.000Z,,"pending
-",SS,SS,,2024-07-23T04:32:17.000Z,,,,,['reckYL5jUlAbFaPxp'],SS 
-recLaOtexm3AySNZf,2024-07-21T04:44:31.000Z,,"pending
-",WSK,WSK,,2024-07-23T04:32:17.000Z,,,,,['rec3DN8lkQFXHtFWn'],WSK 
-recM01JoBtd0H7qbk,2024-07-10T09:09:19.000Z,,,Supapak,supapakp@scg.com,,2024-07-10T09:11:21.000Z,Mukjaeng,Environmental Dimension Analyst,,Sustainable Development/Environmental Dimension/,,Supapak Mukjaeng
-recMrUyiihNph1EK1,2024-07-22T16:59:01.000Z,['recQOMVykhNbQki57'],,Tanoos,tanoosp@scg.com,['jirapatj@scg.com'],2024-07-31T04:21:04.000Z,Pha-obsaeng,Senior Associate Director - Professional Services,"['recsKydGSgzkTKlqm', 'recdy6QcLqxfT0LnC', 'recNuXKTrSmLYlyYX']",SCG Digital Office/Professional Services/,"['rechQBoM3hqsYtTQ8', 'recTYuuXL1xjw2s3n']",Tanoos Pha-obsaeng
-recO2qxIqmIM6yyTV,2024-07-21T04:54:53.000Z,,"pending
-",Nat,Nat,,2024-07-23T04:32:17.000Z,,,,,['recQPvAkGoPpEqCRR'],Nat 
-recOBrGRkWDuWn2j8,2024-07-19T11:00:47.000Z,,"pending
-",PSY,PSY,,2024-07-23T04:32:17.000Z,,,,,"['rec9JQYbVBUdljqcC', 'recq8uwmRFcvE9pE7', 'recpFNEldTpZuviTu', 'rec8lTka9quTzu3Lg', 'recDHlJQmWtiRfqag', 'recqPG3N6x7FQdXHz', 'rechvS9DZFpolOexX', 'recOqQE6sQceCsiI1', 'recXQqGEsUehgR0xZ']",PSY 
-recQOMVykhNbQki57,2024-07-22T16:57:41.000Z,['recvWrrhb5lofJzhk'],,Jirapat,jirapatj@scg.com,['thammass@scg.com'],2024-07-22T17:13:56.000Z,Janjerdsak,"Chief SCG Digital Officer and MD, BiT Innovation Co., Ltd.",,SCG Digital Office,,Jirapat Janjerdsak
-recX5DldQWHj6oR26,2024-07-21T04:45:47.000Z,,"pending
-",Wat,Wat,,2024-07-23T04:32:17.000Z,,,,,['recMB6qjQytpkNLdr'],Wat 
-recXf5ExaNoEvBEXf,2024-07-10T08:58:43.000Z,['recxLNIGfbmm9pixK'],,Patima,patimasi@scg.com,['nuttavui@scg.com'],2024-07-21T04:52:42.000Z,Sinthupinyo,Associate Director,,Sustainable Development/ESG Integration/,,Patima Sinthupinyo
-rechIJBGnBeolLlHf,2024-07-21T04:44:22.000Z,,"pending
-",PP,PP,,2024-07-23T04:32:17.000Z,,,,,"['recF9BuviMoAnvGIF', 'recJCOBgpyy2RXqDm']",PP 
-reclx2eMb5urWRjX1,2024-07-19T11:00:54.000Z,,"pending
-",MK,MK,,2024-07-23T04:32:17.000Z,,,,,"['recekbd5BWMi35gAy', 'reckYL5jUlAbFaPxp']",MK 
-recmfaVuWopCa4NWL,2024-07-10T08:58:43.000Z,['recvWrrhb5lofJzhk'],,Chana,chanap@scg.com,['thammass@scg.com'],2024-07-22T16:56:18.000Z,Poomee,Chief Sustainability Officer,"['recFJxOpvMsmOrWgG', 'rec9f5Eg8PBHb7lak', 'recnQnDrU8unthesh', 'recH8V4skHyQad6Cr', 'reckNOIJEOvqQdxyq', 'recKw39p2aXC8HC4M', 'rec4Xa3770RKo0r37', 'rec3uThG3FHJZBflo', 'reccJCMDwnl5Wx4B4', 'recG0b86r00Fefx3k', 'recjVGmOwVW6M6D1p', 'recRUQnnJkXInuVQx', 'reczVFTFxSgsidKFE', 'rec4mzkjTDpcHx1mO', 'recUj5uILmMCgKtAh', 'rec3CYNYLCbLQpNrr', 'recpb5pnCHfHB3Fe8', 'reczcheaLPeHYEYud', 'recAxdv2QGe7b2qX8', 'recX0LuZSLNZEo4aC', 'recBZXby4bXGkTF9R', 'rec6HcpeVT3M3YKW7', 'recJpgUYQUSHcX7UO']",Sustainable Development,"['recqPG3N6x7FQdXHz', 'reckaVksbDyscWcv4', 'rechvS9DZFpolOexX', 'reckB1zQIs4XusqzQ', 'recXmLjHMw8lPWBvX', 'recOqQE6sQceCsiI1']",Chana Poomee
-recoRw5IMWN4yxrJi,2024-07-22T16:50:24.000Z,['recr1BqvG9zcz3ATI'],dummy,dummy_B,dummy_B,['dummy_A'],2024-07-23T04:32:28.000Z,,,,,,dummy_B 
-recow9nq1GvgtJC1N,2024-07-21T04:44:08.000Z,,"pending
-",SP,SP,,2024-07-23T04:32:17.000Z,,,,,"['recc6qPYFKuNmSDTE', 'rec0KPus6meV872LS']",SP 
-recr1BqvG9zcz3ATI,2024-07-21T08:14:25.000Z,['recmfaVuWopCa4NWL'],dummy,dummy_A,dummy_A,['chanap@scg.com'],2024-07-31T03:58:09.000Z,,,,,"['recqPG3N6x7FQdXHz', 'recPfHnpjhvwuouR1']",dummy_A 
-recrFxbBWUSD3p0ef,2024-07-22T17:00:53.000Z,['recMrUyiihNph1EK1'],,Watchareepast,watchtec@scg.com,['tanoosp@scg.com'],2024-07-31T03:58:09.000Z,Techanitipat,Lead Data Scientist,"['rectVYfUmsZMyzYjC', 'recWteWpyveAEZoqb', 'recIKZD21gr7cTnn4', 'recMk05TL44Zf9sA2', 'recJFLmfzXAiaxhAT', 'recTv0ttA25op3T4I', 'recKnS5Dj6FpCO4Ft']",SCG Digital Office/Solution Delivery/Data Technology,"['recy64HiD8p7PDfG9', 'recPfHnpjhvwuouR1']",Watchareepast Techanitipat
-rectioNPbYka8M0gD,2024-07-10T09:08:35.000Z,['recXf5ExaNoEvBEXf'],,Siriwan,siriwanp@scg.com,['patimasi@scg.com'],2024-07-10T09:09:03.000Z,Pongpom,ESG Integration Analyst,,Sustainable Development/ESG Integration/,,Siriwan Pongpom
-recvWrrhb5lofJzhk,2024-07-22T16:55:02.000Z,,,Thammasak,thammass@scg.com,,2024-08-13T16:39:23.000Z,Sethaudom,President & CEO,"['recq2k6hTvGz8jHRc', 'recLpIndP02TZO1Jv']",SCG,['recTYuuXL1xjw2s3n'],Thammasak Sethaudom
-recw9kKgnk4NOSR1q,2024-07-21T04:45:55.000Z,,"pending
-",Jay,Jay,,2024-07-23T04:32:17.000Z,,,,,['recmbgLsEV4grpyCC'],Jay 
-recwhEhnuPYt441x1,2024-07-21T04:45:52.000Z,,"pending
-",Po,Po,,2024-07-23T04:32:17.000Z,,,,,['recmbgLsEV4grpyCC'],Po 
-recxLNIGfbmm9pixK,2024-07-10T08:58:43.000Z,['recmfaVuWopCa4NWL'],,Nuttavut,nuttavui@scg.com,['chanap@scg.com'],2024-07-21T04:55:13.000Z,Intarode,Director,,Sustainable Development,"['recwSQ4IenjahCJRQ', 'receh3wc7kSZCwixa', 'recP7LiDBRZoj2IIA', 'rech9L7MgoyQuQag1', 'rec8T2VwdISzxUpkc', 'recAdxuNvj53AFMHR', 'recTQA7ydhaBOPrtu', 'rec3huhtJJrkp2Zmh', 'recXQqGEsUehgR0xZ']",Nuttavut Intarode
-reczxVeKT3jngBXWu,2024-07-21T04:44:25.000Z,,"pending
-",SPA,SPA,,2024-07-23T04:32:17.000Z,,,,,"['recF9BuviMoAnvGIF', 'recJCOBgpyy2RXqDm']",SPA 
+id,createdTime,fields.Surname,fields.Position,fields.Note,fields.Network Data,fields.Name,fields.Organization,fields.Email,fields.Incoming Document,fields.Last modified date,fields.Report To,fields.Email (from Report To),Full Name
+recCQf57J2IVdcxpY,2024-07-10T09:09:45.000Z,Rangsiyopash,Director,RR,['reccGFcOHy6IX9BhC'],Roongrote,SCG Board,roongror@scg.com,['recTYuuXL1xjw2s3n'],2024-08-19T01:40:54.000Z,,,Roongrote Rangsiyopash
+recJFbopu3xf8C7cg,2024-07-21T04:44:14.000Z,Sintumongkolchai,Associate Director,SS,,Somwung,Sustainable Development/ESG Performance/,somwungs@scg.com,['reckYL5jUlAbFaPxp'],2024-08-19T01:41:45.000Z,['recxLNIGfbmm9pixK'],['nuttavui@scg.com'],Somwung Sintumongkolchai
+recLaOtexm3AySNZf,2024-07-21T04:44:31.000Z,Sangkaew,Associate Director,WS,"['recCLG9EUa8twuOWV', 'rec6TxGsCZMmUT3gs', 'rec4gIGxihKJMjph6', 'rec0i66wyDqWMZFvK']",Wipada,Sustainable Development/Social Dimension/,wipadsa@scg.com,['rec3DN8lkQFXHtFWn'],2024-08-19T01:40:07.000Z,['recxLNIGfbmm9pixK'],['nuttavui@scg.com'],Wipada Sangkaew
+recM01JoBtd0H7qbk,2024-07-10T09:09:19.000Z,Mukjaeng,Environmental Dimension Analyst,,,Supapak,Sustainable Development/Environmental Dimension/,supapakp@scg.com,,2024-07-10T09:11:21.000Z,,,Supapak Mukjaeng
+recMrUyiihNph1EK1,2024-07-22T16:59:01.000Z,Pha-obsaeng,Senior Associate Director - Professional Services,,"['recsKydGSgzkTKlqm', 'recdy6QcLqxfT0LnC', 'recNuXKTrSmLYlyYX']",Tanoos,SCG Digital Office/Professional Services/,tanoosp@scg.com,"['rechQBoM3hqsYtTQ8', 'recTYuuXL1xjw2s3n']",2024-07-31T04:21:04.000Z,['recQOMVykhNbQki57'],['jirapatj@scg.com'],Tanoos Pha-obsaeng
+recO2qxIqmIM6yyTV,2024-07-21T04:54:53.000Z,,,"pending
+",,Nat,,Nat,['recQPvAkGoPpEqCRR'],2024-07-23T04:32:17.000Z,,,Nat 
+recQOMVykhNbQki57,2024-07-22T16:57:41.000Z,Janjerdsak,"Chief SCG Digital Officer and MD, BiT Innovation Co., Ltd.",,,Jirapat,SCG Digital Office,jirapatj@scg.com,,2024-07-22T17:13:56.000Z,['recvWrrhb5lofJzhk'],['thammass@scg.com'],Jirapat Janjerdsak
+recX5DldQWHj6oR26,2024-07-21T04:45:47.000Z,,,"pending
+",,Wat,,Wat,['recMB6qjQytpkNLdr'],2024-07-23T04:32:17.000Z,,,Wat 
+recXf5ExaNoEvBEXf,2024-07-10T08:58:43.000Z,Sinthupinyo,Associate Director,PSY,,Patima,Sustainable Development/ESG Integration/,patimasi@scg.com,"['recdXS2O331WWjEAY', 'rec9JQYbVBUdljqcC', 'recq8uwmRFcvE9pE7', 'recpFNEldTpZuviTu', 'rec8lTka9quTzu3Lg', 'recDHlJQmWtiRfqag', 'recqPG3N6x7FQdXHz', 'rechvS9DZFpolOexX', 'recXQqGEsUehgR0xZ', 'recOqQE6sQceCsiI1']",2024-08-19T01:40:45.000Z,['recxLNIGfbmm9pixK'],['nuttavui@scg.com'],Patima Sinthupinyo
+rechIJBGnBeolLlHf,2024-07-21T04:44:22.000Z,Pisapanit,Associate Director,PP,,Penlada,Sustainable Development/Environmental Dimension/,penladap@scg.com,"['recF9BuviMoAnvGIF', 'recJCOBgpyy2RXqDm']",2024-08-19T01:40:03.000Z,['recxLNIGfbmm9pixK'],['nuttavui@scg.com'],Penlada Pisapanit
+reclx2eMb5urWRjX1,2024-07-19T11:00:54.000Z,,,"pending
+",,MK,,MK,"['recekbd5BWMi35gAy', 'reckYL5jUlAbFaPxp']",2024-07-23T04:32:17.000Z,,,MK 
+recmfaVuWopCa4NWL,2024-07-10T08:58:43.000Z,Poomee,Chief Sustainability Officer,CP,"['recFJxOpvMsmOrWgG', 'rec9f5Eg8PBHb7lak', 'recnQnDrU8unthesh', 'recH8V4skHyQad6Cr', 'reckNOIJEOvqQdxyq', 'recKw39p2aXC8HC4M', 'rec4Xa3770RKo0r37', 'rec3uThG3FHJZBflo', 'reccJCMDwnl5Wx4B4', 'recG0b86r00Fefx3k', 'recjVGmOwVW6M6D1p', 'recRUQnnJkXInuVQx', 'reczVFTFxSgsidKFE', 'rec4mzkjTDpcHx1mO', 'recUj5uILmMCgKtAh', 'rec3CYNYLCbLQpNrr', 'recpb5pnCHfHB3Fe8', 'reczcheaLPeHYEYud', 'recAxdv2QGe7b2qX8', 'recX0LuZSLNZEo4aC', 'recBZXby4bXGkTF9R', 'rec6HcpeVT3M3YKW7', 'recJpgUYQUSHcX7UO']",Chana,Sustainable Development,chanap@scg.com,"['recqPG3N6x7FQdXHz', 'reckaVksbDyscWcv4', 'rechvS9DZFpolOexX', 'reckB1zQIs4XusqzQ', 'recXmLjHMw8lPWBvX', 'recOqQE6sQceCsiI1']",2024-08-19T01:40:49.000Z,['recvWrrhb5lofJzhk'],['thammass@scg.com'],Chana Poomee
+recrFxbBWUSD3p0ef,2024-07-22T17:00:53.000Z,Techanitipat,Lead Data Scientist,,"['rectVYfUmsZMyzYjC', 'recWteWpyveAEZoqb', 'recIKZD21gr7cTnn4', 'recMk05TL44Zf9sA2', 'recJFLmfzXAiaxhAT', 'recTv0ttA25op3T4I', 'recKnS5Dj6FpCO4Ft']",Watchareepast,SCG Digital Office/Solution Delivery/Data Technology,watchtec@scg.com,"['recy64HiD8p7PDfG9', 'recPfHnpjhvwuouR1']",2024-08-18T15:34:48.000Z,['recMrUyiihNph1EK1'],['tanoosp@scg.com'],Watchareepast Techanitipat
+rectioNPbYka8M0gD,2024-07-10T09:08:35.000Z,Pongpom,ESG Integration Analyst,SP,,Siriwan,Sustainable Development/ESG Integration/,siriwanp@scg.com,"['rec0KPus6meV872LS', 'recc6qPYFKuNmSDTE']",2024-08-19T01:40:41.000Z,['recXf5ExaNoEvBEXf'],['patimasi@scg.com'],Siriwan Pongpom
+recvWrrhb5lofJzhk,2024-07-22T16:55:02.000Z,Sethaudom,President & CEO,,"['recq2k6hTvGz8jHRc', 'recLpIndP02TZO1Jv']",Thammasak,SCG,thammass@scg.com,"['recTYuuXL1xjw2s3n', 'recdXS2O331WWjEAY']",2024-08-14T03:14:33.000Z,,,Thammasak Sethaudom
+recw9kKgnk4NOSR1q,2024-07-21T04:45:55.000Z,,,"pending
+",,Jay,,Jay,['recmbgLsEV4grpyCC'],2024-07-23T04:32:17.000Z,,,Jay 
+recwhEhnuPYt441x1,2024-07-21T04:45:52.000Z,,,"pending
+",,Po,,Po,['recmbgLsEV4grpyCC'],2024-07-23T04:32:17.000Z,,,Po 
+recxLNIGfbmm9pixK,2024-07-10T08:58:43.000Z,Intarode,Director,NI,"['recx0atL68PuNoRkP', 'reccljFJZhLYQMS0d', 'recIGoPO800tll6w4', 'rec3fd3Z8vUcSs0uy', 'recqtuo3j2TaVBTzH', 'rec26EZNJ9qiLBhwy', 'recrjRHrtJX5yAKFz', 'rec8fE5Iska1HVtNo', 'rec7IfScTTzgn90Ec', 'recfreq4rMOcCzjto', 'recV8CJxWTEJHwXuZ', 'recWlMQAXB0NOqv4g', 'receHv8nQ51OFvEPk', 'recvVxaWA4GHGXNL7', 'reccNRVsIR67rZWnL', 'rec1p4uhKIjWXukDT', 'recW7LzJfFyJi4DZC', 'recth9zK400lGP6tW', 'recMqSegAu1hfV3DD', 'recXi7GF3LrOOxO9E', 'rectPKHXm3aZhrZ5q', 'rec715aV5DM3sXsPR', 'recb8OuVUo0DcMgyz', 'recaUTKCJLcUZs4RE', 'reciBAq85FmXD8yf8', 'recxUgE67zQYbyELe', 'recYyiMNn7dxU3N8x', 'recXHuiN79k7EzIJb', 'recUQC0PEWVLtyGfQ', 'recUWYkhkv8dhNlwo', 'recKh6UL0T2aeWqID']",Nuttavut,Sustainable Development,nuttavui@scg.com,"['recwSQ4IenjahCJRQ', 'receh3wc7kSZCwixa', 'recP7LiDBRZoj2IIA', 'rech9L7MgoyQuQag1', 'rec8T2VwdISzxUpkc', 'recAdxuNvj53AFMHR', 'recTQA7ydhaBOPrtu', 'rec3huhtJJrkp2Zmh', 'recXQqGEsUehgR0xZ']",2024-08-19T01:40:45.000Z,['recmfaVuWopCa4NWL'],['chanap@scg.com'],Nuttavut Intarode
+reczxVeKT3jngBXWu,2024-07-21T04:44:25.000Z,,,"pending
+",,SPA,,SPA,"['recF9BuviMoAnvGIF', 'recJCOBgpyy2RXqDm']",2024-07-23T04:32:17.000Z,,,SPA 
