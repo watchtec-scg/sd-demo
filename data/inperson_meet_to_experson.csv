@@ -1,5 +1,6 @@
 id_inperson,id_experson,meeting_type,kpi_green_infra,kpi_green_funding,kpi_cross_cutting,kpi_collab,remark,count_kpi,total_kpi
 recmfaVuWopCa4NWL,ภัทราวรรณ สุขคันธรักษ์,ผู้ร่วมเสวนา,5,0,0,0,ร่วมกันตั้งเป้าการปลดปล่อยก๊าซเรือนกระจกสุทธิเป็นศูนย์,1,5
+recmfaVuWopCa4NWL,น.อ.รศ.ดร.ธนากร พีระพันธุ์,เข้าร่วมประชุม,0,0,0,3,dummy,1,3
 recrFxbBWUSD3p0ef,นครินทร์ วนกิจไพบูลย์,เข้าร่วมประชุม,0,0,0,0,dummy,0,0
 recmfaVuWopCa4NWL,เทพรัตน์ เทพพิทักษ์,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recxLNIGfbmm9pixK,สุทิน หิรัญอ่อน,เข้าร่วมประชุม,0,0,0,4,,1,4
@@ -7,25 +8,28 @@ recxLNIGfbmm9pixK,สุภารัตน์ สาคร,เข้าร่ว
 recxLNIGfbmm9pixK,ธีระพงษ์ วิมลจิตรานนท์,ผู้ร่วมเสวนา,0,0,0,0,แหล่งข้อมูลการบริหารจัดการขยะจังหวัดสระบุรี,0,0
 recxLNIGfbmm9pixK,กาญจน์ชนิษฐา เอกแสงศรี,ผู้ร่วมเสวนา,0,2,0,3,คณะกรรมการจัดการขยะจังหวัดสระบุรี,2,5
 recxLNIGfbmm9pixK,พงษ์ศักดิ์ จ.,เข้าร่วมประชุม,0,0,0,4,Waste Management,1,4
-recrFxbBWUSD3p0ef,เรืองโรจน์ พูนผล,เข้าร่วมประชุม,0,0,0,0,dummy,0,0
 recxLNIGfbmm9pixK,นฤมล โชคดำรงสุข,เข้าร่วมสัมมนา,0,0,0,4,Thailand Taxonomy,1,4
 recmfaVuWopCa4NWL,ดร.กรินทร์ บุญเลิศวาณิชย์,ผู้ร่วมเสวนา,0,0,0,5,ร่วมกันตั้งเป้าการปลดปล่อยก๊าซเรือนกระจกสุทธิเป็นศูนย์,1,5
-recvWrrhb5lofJzhk,ดร.วิทย์ สิทธิเวคิน,เข้าร่วมประชุม,0,0,0,3,,1,3
+recvWrrhb5lofJzhk,ดร.วิทย์ สิทธิเวคิน,เข้าร่วมประชุม,0,0,0,3,dummy,1,3
 recxLNIGfbmm9pixK,ปรีชา สายแสง,เข้าร่วมประชุม,0,0,0,3,,1,3
 recxLNIGfbmm9pixK,วัณณิกา รัตพงศ์,เข้าร่วมประชุม,0,0,0,5,,1,5
 recLaOtexm3AySNZf,แสงชัย ธีรกุลวาณิช,เข้าร่วมประชุม,0,0,0,0,,0,0
 recxLNIGfbmm9pixK,จารุบุตร อัศวเรืองชัย,เข้าร่วมประชุม,0,5,0,5,Collaborative Project for EV truck,2,10
+recmfaVuWopCa4NWL,ผล ดำธรรม,เข้าร่วมประชุม,5,4,0,5,dummy,3,14
 recxLNIGfbmm9pixK,จารุวรรณ เหมือนทองจีน,เข้าร่วมประชุม,0,2,0,0,Project Funding,1,2
 recxLNIGfbmm9pixK,Supat Ampaitanakorn,เข้าร่วมสัมมนา,0,0,0,3,"Carbon Emissions Reduction in Tourism, Mobility & Infrastructure",1,3
-recrFxbBWUSD3p0ef,ดร.สุชาติ เซี่ยงฉิน,วิทยากร,0,0,0,0,dummy,0,0
+recvWrrhb5lofJzhk,เจริญชัย เฉลียวเกรียงไกร,ผู้ร่วมเสวนา,5,3,5,5,dummy Saraburi Sandbox,4,18
 recxLNIGfbmm9pixK,Anh-Hà de FOUCAULD,เข้าร่วมสัมมนา,0,0,0,3,ESG Database,1,3
 recxLNIGfbmm9pixK,บุญมี สรรพคุณ,เข้าร่วมประชุม,0,2,0,3,,2,5
 recxLNIGfbmm9pixK,Rony Soerakoesoemah,เข้าร่วมประชุม,0,5,0,0,Grants for Saraburi Sandbox,1,5
 recmfaVuWopCa4NWL,สมภพ พัฒนอริยางกูล,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recmfaVuWopCa4NWL,วัชรพงศ์ ทองรุ่ง,ผู้ร่วมเสวนา,0,0,0,0,,0,0
+recvWrrhb5lofJzhk,พรรรัตน์ เพชรภักดี,ผู้ร่วมเสวนา,3,0,0,4,dummy,2,7
 recmfaVuWopCa4NWL,จิราพร มรกตจินดา,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recmfaVuWopCa4NWL,ดร.เอกนิติ นิติทัณฑ์ประภาส,ผู้ร่วมเสวนา,0,0,0,0,,0,0
+recmfaVuWopCa4NWL,ปริญญา คุ้มสระพรหม,เข้าร่วมประชุม,0,0,0,4,dummy,1,4
 recLaOtexm3AySNZf,อธิพงศ์ หิรัญเรืองโชค,เข้าร่วมประชุม,0,0,0,0,,0,0
+recmfaVuWopCa4NWL,ดร.กิติพงค์ พร้อมวงค์,เข้าร่วมประชุม,3,5,5,5,dummy,4,18
 recmfaVuWopCa4NWL,ดร.สุชาติ เซี่ยงฉิน,วิทยากร,0,0,3,3,สร้างเครือข่ายและความร่วมมือในการพัฒนาอย่างยั่งยืน,2,6
 recmfaVuWopCa4NWL,พริษฐ์ วัขรสินธุ,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recmfaVuWopCa4NWL,อรรถพล ฤกษ์พิบูลย์,ผู้ร่วมเสวนา,0,0,0,0,,0,0
@@ -37,8 +41,10 @@ recxLNIGfbmm9pixK,นฤมล พุกพิกุล,เข้าร่วม
 recrFxbBWUSD3p0ef,เศรษฐา ทวีสิน,เข้าร่วมประชุม,0,0,0,0,dummy,0,0
 recmfaVuWopCa4NWL,วิชัย ณรงค์วณิชย์,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recvWrrhb5lofJzhk,เศรษฐา ทวีสิน,เข้าร่วมสัมมนา,0,0,0,0,dummy,0,0
+recmfaVuWopCa4NWL,เจริญชัย เฉลียวเกรียงไกร,พบปะส่วนตัว,0,0,0,5,dummy,1,5
 recrFxbBWUSD3p0ef,เรืองโรจน์ พูนผล,พบปะส่วนตัว,0,0,0,0,dummy,0,0
 recxLNIGfbmm9pixK,ดร.ชาริกา ชาญนันทพิพัฒน์,วิทยากร,0,0,0,3,Saraburi Sandbox,1,3
+recrFxbBWUSD3p0ef,นครินทร์ วนกิจไพบูลย์,ผู้ร่วมเสวนา,0,0,0,4,dummy,1,4
 recxLNIGfbmm9pixK,รัฐธนินท์ พฤกษ์สุวรรณ,เข้าร่วมประชุม,4,0,0,0,Energy storage,1,4
 recxLNIGfbmm9pixK,รศ.ดร.จรรยา ชาญชัยชูจิต,เข้าร่วมประชุม,0,3,0,2,Collaborative Project for EV truck,2,5
 recxLNIGfbmm9pixK,ภัทริสา บุญเสริม,เข้าร่วมสัมมนา,0,0,0,0,Grants for Saraburi Sandbox,0,0
@@ -59,12 +65,15 @@ recxLNIGfbmm9pixK,Kiyoung Yang,เข้าร่วมประชุม,0,4,0,
 recCQf57J2IVdcxpY,ดร.ชัชชาติ สิทธิพันธุ์,เข้าร่วมสัมมนา,0,0,0,0,dummy,0,0
 recmfaVuWopCa4NWL,เกียรติชาย ไม่ตรีวงษ์,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recxLNIGfbmm9pixK,Andreea Visan,เข้าร่วมประชุม,0,0,0,4,World Economic Forum content,1,4
+recvWrrhb5lofJzhk,ดร.กิติพงค์ พร้อมวงค์,ผู้ร่วมเสวนา,0,3,0,3,dummy Saraburi Sandbox,2,6
 recxLNIGfbmm9pixK,พิสิทธิ์ แซ่ลิ้ม,ผู้ร่วมเสวนา,4,0,0,4,ต้นแบบห้วยกระเจาโมเดล,2,8
 recxLNIGfbmm9pixK,ดร.เรวดี อนุวัฒนา,ผู้ร่วมเสวนา,0,2,0,4,แหล่งเงินทุน และสนับสนุนด้านเทคโนโลยีและนวัตกรรม,2,6
 recxLNIGfbmm9pixK,สฤษฏ์ จิตนอก,เข้าร่วมประชุม,0,4,0,5,,2,9
 recmfaVuWopCa4NWL,ดร.วิทย์ สิทธิเวคิน,ผู้ร่วมเสวนา,0,0,0,0,,0,0
+recmfaVuWopCa4NWL,นพดล ชีวะอิสระกุล,เข้าร่วมประชุม,0,0,0,0,dummy,0,0
 recmfaVuWopCa4NWL,สารัชถ์ รัตนาวะดี,ผู้ร่วมเสวนา,0,0,0,0,,0,0
-recvWrrhb5lofJzhk,ศุภชัย เจียรวนนท์,เข้าร่วมประชุม,3,5,2,4,,4,14
+recvWrrhb5lofJzhk,ศุภชัย เจียรวนนท์,เข้าร่วมประชุม,3,5,2,4,"dummy
+",4,14
 recmfaVuWopCa4NWL,ดร.พิรุณ สัยยสิทธิ์พานิช,ผู้ร่วมเสวนา,0,0,0,0,,0,0
 recvWrrhb5lofJzhk,ดร.ชัชชาติ สิทธิพันธุ์,พบปะส่วนตัว,5,5,3,5,"dummy
 ",4,18
